@@ -1,0 +1,6 @@
+firebase_admin==6.5.0
+Flask==3.0.3
+numpy==2.1.1
+opencv_python==4.10.0.84
+pyrebase==3.0.27
+ultralytics==8.2.76
