@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "textile-anamoly",
+  "private_key_id": "8265636e6b570a24c4e6a28ce617fe2ebb799a28",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQC6tI3e71py2lyI\nXVG6VEvM/PcVuuYyflrMbHOT4bQ8HAv510Y+u2x7dS4VJTXPOXU7c8YAOR3SNR2S\nqA5q22VS622+UH13wbw1rEJc/QLKSP9SD80Ko8B7+JNYXg+e89SlEreKNBg8oWxP\nE1GI2c7pbI19lsYcmLFb79SO7LrJXC6UduHN90JS725E19FhV38uS7VjYbg+s3Lm\nxDM+Ew4Hw0ol601893B+XEYk3JXRICF+BUseAE6VhcRZEco3SNg2pF9WddRu48+C\nDyguMZjGdhHyeJM5jkObW6wgLes+XToUkpRrVlefXAlU2m4QIHQOrC1PBq4ro6d4\nwVzctSexAgMBAAECggEAMGYvxNPtcYqTpDH0xsWlZL1K3BI4LGy+4vFWQMaor1Bh\n9mFM72QsqhBlYsvjmBWAA2pusI4d4ektAmCYZDD9ojIvn79D1zCctpkyFuLrvz6P\nGVnJQHHUqw50O9seV4lD3Yrtk2EPy1/ZMOKEJ2K3FaGzSBQ2xSD8ESYpxuctQJc3\na+tJHOYG5T+aqUIYmjwtJMEIlxll794s7ZJl9/70yzbiTiEcPf+QuT+xyfvbRotH\nqzqTfFX6N7jI+uGnvOe3L/kb/bRTMxUhjo8grZXlbc6Qd6m1U+9OZi+2kt0Nqvcd\nwnOwfmjV1V6V47QJwf8brdQEHciIEyN/IVNDDSRbVQKBgQD72GtvK3lttgB2J1AM\noBFTXoIxhYKcemiqQLGkIM4nNCJNBXZBed+aLNQaZqSgc+MxC3sBPl/MbP9eOgg8\naYcPvcJoEcPKbn7MZEeUjBH+yrTz0/8wOaoEKsyljS4kegL5Y6xhx/tIW2+rO7K+\nXjTww7gykOhw2O36bLx6LZXVPwKBgQC9yQnKLizTMULP5j9WBq7sEpk67ssv8Igh\nisNpJpFNcOtjun86STmj4wNAGwQmFwZytSO8dNBfeZgInFaHqZILYaCdMPNsTYKz\n4/N/fa3Rh9jU2ipplwUTw3bb+1MRR+OupySgso4QJrqq4iQIY1q9KDWiUsKE7xUt\nMVpk2vsXDwKBgQD4ObiyiyQVOaU8z8S7nO1WwbkLPG+e8ZvF6xvsDJWE2ILSbYbA\nRHJa0MKB/xdWOsL8LTeg4yyjHe+ZnRNPECgaIMvDrXbQSJZbuJ9Az8pQ2tT92r8U\ndlGX5+NrbTrEoynZSx+2BNks2Uq4eI/VyJ7fi9k6pc8kovv0r0YaGmIrGwKBgGid\nj1XxyifIucmcZEFpgbcEMY843qxYbNIAieNGrUYA/uCEh2l7v9hFZR9LRSgx/Q3y\nJ/bUdaCLiHEGrPQvVyAK+txrhWOn/mpnN2yJvO0Jc08xy7tU0imoz7ZHfezCshEu\ndZRXmNPyZWeZLL+q9PPcXGRUNoHMwOGemPOLemmlAoGBAPk1QeIzACnfGAt0SaZ0\nPAcBPjZqomXUcPDGV8AjyawM3oD+UzVjwqjYNUrf8XLTxYuUe8xx0k1qAEMcSSv5\nc3eTneA4m8OSymtd6I0AaYoBI13UwQRFz/I98oM1OdtToRkCi/YxX2LnmjxnAM6E\n/MSdXwBDLrsLpnvaZDinWwMI\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-5ppia@textile-anamoly.iam.gserviceaccount.com",
+  "client_id": "114051876829664598151",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-5ppia%40textile-anamoly.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
